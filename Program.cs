@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello frome remote");
+            Console.WriteLine("Hello frome branch");
         }
     }
 }
