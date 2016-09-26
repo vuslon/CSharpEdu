@@ -10,8 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from local");
-
-            }
+            Console.Writeline("Hello frome remote");
+        }
     }
 }
