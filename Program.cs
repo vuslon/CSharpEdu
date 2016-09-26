@@ -10,7 +10,8 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Hello frome remote");
+            Console.WriteLine("Hello frome remote");
+            Console.WriteLine("Hello frome branch");
         }
     }
 }
